@@ -25,7 +25,8 @@ Aplikasi ini dibangun dengan menggunakan Laravel dan bertujuan untuk menyediakan
     npm install
     cp .env.example .env
     php artisan key:generate
-    php artisan migrate --seed
+    php artisan migrate
+    php artisan db:seed
     php artisan serve
 
    ```
