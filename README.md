@@ -37,4 +37,22 @@ Kami menyambut kontribusi dari komunitas! Silakan fork repository ini, lakukan p
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
+## Lain - Lain
+
+```
+Username Default: billy@incrustwerush.org
+Password Default: billy
+```
+##
+
+## Gambar
+
+![Screenshot from 2024-07-17 09-39-58](https://github.com/user-attachments/assets/3ed8bedf-4847-4b59-bd50-27b2ce05bdbe)
+![Screenshot from 2024-07-17 09-44-39](https://github.com/user-attachments/assets/ad7a3f64-7dc1-4308-b7fb-a9d8595dc506)
+![Screenshot from 2024-07-17 09-47-11](https://github.com/user-attachments/assets/b7eeb117-75d3-4026-a176-fa9f143c1f05)
+![Screenshot from 2024-07-17 09-47-29](https://github.com/user-attachments/assets/efdb4d46-87c1-4988-b46a-5b3e3e84d165)
+![Screenshot from 2024-07-17 09-47-34](https://github.com/user-attachments/assets/6fa0db0b-8c5a-4153-81e3-2835caefc599)
+
+
+
 
